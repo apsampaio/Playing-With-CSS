@@ -32,8 +32,8 @@ body {
 
     z-index: 1;
     position: fixed;
-    right: 50%;
-    bottom: 50%;
+    left: calc(50% - 45px);
+    bottom: calc(50% - 30px);
 }
 
 @keyframes up {
