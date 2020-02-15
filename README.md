@@ -2,4 +2,6 @@
 
 Some CSS3 practice.
 
-[Rolling Pixels](https://github.com/apsampaio/Playing-With-CSS/tree/master/Rolling%20Pixels). - [CodePen.io](https://codepen.io/apsampaio/pen/mdJVZex) Link
+[Rolling Pixels](https://codepen.io/apsampaio/pen/mdJVZex) - (CodePen.io)
+
+[Tic Tac Toe](https://codepen.io/apsampaio/pen/ExjKyOX) - (CodePen.io)
